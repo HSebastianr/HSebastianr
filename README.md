@@ -1,16 +1,21 @@
-### Hi there 👋
+### 👨‍💻 About Me
 
-<!--
-**HSebastianr/HSebastianr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Cybersecurity student** focused on building a strong foundation in ethical hacking, penetration testing, and network security. Currently, I'm learning to create innovative tools and scripts to improve security and automate testing processes.  
 
-Here are some ideas to get you started:
+🔒 **Skills & Interests:**
+- Ethical Hacking & Penetration Testing
+- Network Security & Vulnerability Assessment
+- Programming (Python, Bash, C, JavaScript)
+- Tools: Nmap, Wireshark, Burp Suite, Metasploit
+- Cybersecurity Research & Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Current Projects:**
+- Developing HScan, a network scanning tool for ethical hackers.
+- Contributing to various open-source cybersecurity tools and projects.
+
+🚀 **Goals:**
+- Enhance my skills in offensive and defensive security.
+- Contribute to the cybersecurity community with helpful tools and resources.
+
+📫 **Contact Me:**
+- Email: [sebastianrappu@gmail.com](mailto:sebastianrappu@gmail.com)
