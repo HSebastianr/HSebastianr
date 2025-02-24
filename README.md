@@ -1,21 +1,25 @@
-### 👨‍💻 About Me
+# 👋 Hi there! I'm **Herlan Sebastian**  
 
-I'm a passionate **Cybersecurity student** focused on building a strong foundation in ethical hacking, penetration testing, and network security. Currently, I'm learning to create innovative tools and scripts to improve security and automate testing processes.  
+I'm a passionate developer focused on building innovative and efficient tech solutions. My main focus is web and app development, combining creativity and logic to create impactful products.  
 
-🔒 **Skills & Interests:**
-- Ethical Hacking & Penetration Testing
-- Network Security & Vulnerability Assessment
-- Programming (Python, Bash, C, JavaScript)
-- Tools: Nmap, Wireshark, Burp Suite, Metasploit
-- Cybersecurity Research & Development
+## 🚀 Technologies I work with  
 
-💻 **Current Projects:**
-- Developing HScan, a network scanning tool for ethical hackers.
-- Contributing to various open-source cybersecurity tools and projects.
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS  
+- **Backend:** Node.js, Firebase (Firestore, Auth, Functions)  
+- **DevOps:** Ubuntu, Git  
+- **Methodologies:** Agile development, continuous integration, version control  
 
-🚀 **Goals:**
-- Enhance my skills in offensive and defensive security.
-- Contribute to the cybersecurity community with helpful tools and resources.
+## 🌟 Why work with me?  
 
-📫 **Contact Me:**
-- Email: [sebastianrappu@gmail.com](mailto:sebastianrappu@gmail.com)
+- ✨ Clean, modular, and scalable code  
+- 🔥 Experience integrating APIs, Node.js, and real-time databases  
+- 🚀 Strong problem-solving skills and process optimization  
+
+My goal is to contribute to a solid tech ecosystem while continuing to learn and share knowledge.  
+
+---
+
+## 📩 Contact  
+Feel free to reach out!  
+
+📧 **Email:** [sebastianrappu@gmail.com](mailto:sebastianrappu@gmail.com)  
