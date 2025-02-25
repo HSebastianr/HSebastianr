@@ -20,6 +20,5 @@ My goal is to contribute to a solid tech ecosystem while continuing to learn and
 ---
 
 ## 📩 Contact  
-Feel free to reach out!  
 
 📧 **Email:** [sebastianrappu@gmail.com](mailto:sebastianrappu@gmail.com)  
